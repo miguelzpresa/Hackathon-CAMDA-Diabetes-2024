@@ -6,7 +6,9 @@ Predict relevant diabetes endpoints like blindness or cardiopathy from past diag
 https://bipress.boku.ac.at/camda-play/
 
 ### Final Report   
-[Presentation](Final-Report.pptx.pdf)
+[Presentation](Final-Report.pptx.pdf) 
+
+![image.png](attachment:2d3d805b-0839-4ae6-88ff-6c77c367b142:image.png)
 
 [![image.png](attachment:2d3d805b-0839-4ae6-88ff-6c77c367b142:image.png)](https://github.com/miguelzpresa/Hackathon-CAMDA-Diabetes-2024/blob/e2e80270dfd7b9c109490fa272186be58b630a30/Final-Report.pptx.pdf)
 
